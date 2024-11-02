@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Texas Holdem CE WLA" clientCode="mobile" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="TexasHoldemCE" enableFreeSpin="Y" clientversion="1.0" gameId="300-2079-0" />
+	<GameClient name="Texas Holdem CE WLA" clientCode="tablet" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="TexasHoldemCE" enableFreeSpin="Y" clientversion="1.0" gameId="300-2079-0" />
+	<GameClient name="Texas Holdem CE WLA" clientCode="desktop" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="TexasHoldemCE" enableFreeSpin="Y" clientversion="1.0" gameId="300-2079-0" />
+</ClientConfig>
